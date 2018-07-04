@@ -1,0 +1,2 @@
+# clicktool
+multiple window clicker
