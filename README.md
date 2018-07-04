@@ -8,6 +8,6 @@ Herramienta para hacer clicks en multiples ventanas simultaneas
 
 
 ## Uso
-..* [F1] Activa/Desactiva la ventana activa en la ejecucion del script
-..* [F2] Activa/Desactiva todas las ventanas 
-..* [F3] Desactiva el script para todas las ventanas
+ ..* [F1] Activa/Desactiva la ventana activa en la ejecucion del script
+ ..* [F2] Activa/Desactiva todas las ventanas 
+ ..* [F3] Desactiva el script para todas las ventanas
